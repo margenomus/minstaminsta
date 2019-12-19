@@ -1,6 +1,149 @@
 {
   "data": [
     {
+      "tvtitle": "MNC TV",
+      "tvmedia": "http://id6.indostreamingtv.com/live/mnctv/index.m3u8",
+      "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png",
+      "tvg-id": "",
+      "tvg-name": "",
+      "tvg-language": "Indonesian",
+      "tvg-country": "ID",
+      "tvg-url": "",
+      "group-title": ""
+    },
+    {
+      "tvtitle": "GTV",
+      "tvmedia": "http://id6.indostreamingtv.com/live/tv1/index.m3u8",
+      "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png",
+      "tvg-id": "",
+      "tvg-name": "",
+      "tvg-language": "Indonesian",
+      "tvg-country": "ID",
+      "tvg-url": "",
+      "group-title": ""
+    },
+   {
+      "tvtitle": "RCTI",
+      "tvmedia": "https://live.rctiplus.id/rctiplus/rcti_720p.m3u8",
+      "tvlogo": "https://i.imgur.com/gHDcCfx.png",
+      "tvg-id": "",
+      "tvg-name": "",
+      "tvg-language": "Indonesian",
+      "tvg-country": "ID",
+      "tvg-url": "",
+      "group-title": ""
+    },
+    {
+      "tvtitle": "SCTV",
+      "tvmedia": "http://id1.indostreamingtv.com/live/sctv/index.m3u8",
+      "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png",
+      "tvg-id": "",
+      "tvg-name": "",
+      "tvg-language": "Indonesian",
+      "tvg-country": "ID",
+      "tvg-url": "",
+      "group-title": ""
+    },
+    {
+      "tvtitle": "ANTV",
+      "tvmedia": "http://id2.indostreamingtv.com/live/antv/index.m3u8",
+      "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Antv.png",
+      "tvg-id": "",
+      "tvg-name": "",
+      "tvg-language": "Indonesian",
+      "tvg-country": "ID",
+      "tvg-url": "",
+      "group-title": ""
+    },
+   {
+      "tvtitle": "Trans 7",
+      "tvmedia": "http://id2.indostreamingtv.com/live/trans7/index.m3u8",
+      "tvlogo": "https://cdn.detik.net.id/transmedia17/images/tv_logo/trans7.png?v=4f378d04",
+      "tvg-id": "",
+      "tvg-name": "",
+      "tvg-language": "Indonesian",
+      "tvg-country": "ID",
+      "tvg-url": "",
+      "group-title": ""
+    },
+    {
+      "tvtitle": "TV1",
+      "tvmedia": "http://id1.indostreamingtv.com/live/tv444/index.m3u8",
+      "tvlogo": "https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png",
+      "tvg-id": "",
+      "tvg-name": "",
+      "tvg-language": "Indonesian",
+      "tvg-country": "ID",
+      "tvg-url": "",
+      "group-title": ""
+    },
+   {
+      "tvtitle": "Trans TV",
+      "tvmedia": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8",
+      "tvlogo": "https://cdn.detik.net.id/transmedia17/images/tv_logo/transtv.png?v=4f378d04",
+      "tvg-id": "",
+      "tvg-name": "",
+      "tvg-language": "Indonesian",
+      "tvg-country": "ID",
+      "tvg-url": "",
+      "group-title": ""
+    },
+    {
+      "tvtitle": "Indosiar",
+      "tvmedia": "http://id1.indostreamingtv.com/live/indosiar/index.m3u8",
+      "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png",
+      "tvg-id": "",
+      "tvg-name": "",
+      "tvg-language": "Indonesian",
+      "tvg-country": "ID",
+      "tvg-url": "",
+      "group-title": ""
+    },
+  {
+      "tvtitle": "Metro TV",
+      "tvmedia": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8",
+      "tvlogo": "https://i.imgur.com/B2Q5hcQ.png",
+      "tvg-id": "",
+      "tvg-name": "",
+      "tvg-language": "Indonesian",
+      "tvg-country": "ID",
+      "tvg-url": "",
+      "group-title": ""
+    },
+   {
+      "tvtitle": "Kompas TV",
+      "tvmedia": "http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=000001.live_hls.zte.com",
+      "tvlogo": "https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png",
+      "tvg-id": "",
+      "tvg-name": "",
+      "tvg-language": "Indonesian",
+      "tvg-country": "ID",
+      "tvg-url": "",
+      "group-title": ""
+    },
+ {
+      "tvtitle": "TVRI",
+      "tvmedia": "http://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8",
+      "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",
+      "tvg-id": "",
+      "tvg-name": "",
+      "tvg-language": "Indonesian",
+      "tvg-country": "ID",
+      "tvg-url": "",
+      "group-title": ""
+    },
+   {
+      "tvtitle": "Net TV",
+      "tvmedia": "http://id2.indostreamingtv.com/live/nettv/index.m3u8",
+      "tvlogo": "https://i.imgur.com/6yIpjUJ.png",
+      "tvg-id": "",
+      "tvg-name": "",
+      "tvg-language": "Indonesian",
+      "tvg-country": "ID",
+      "tvg-url": "",
+      "group-title": ""
+    },
+    {
       "tvtitle": "Ahsan TV",
       "tvmedia": "http://119.82.224.75:1935/live/ahsantv/chunk.m3u8",
       "tvlogo": "https://yt3.ggpht.com/a/AGF-l79-EnXTf0LIrTkykYYV3ApKzE9YnGxd_8tSqw=s900-c-k-c0xffffffff-no-rj-mo",
@@ -48,17 +191,6 @@
       "tvtitle": "Aniplus",
       "tvmedia": "http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8",
       "tvlogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
-      "tvtitle": "ANTV",
-      "tvmedia": "http://id2.indostreamingtv.com/live/antv/index.m3u8",
-      "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Antv.png",
       "tvg-id": "",
       "tvg-name": "",
       "tvg-language": "Indonesian",
@@ -265,17 +397,6 @@
       "group-title": "Food"
     },
     {
-      "tvtitle": "GTV",
-      "tvmedia": "http://id6.indostreamingtv.com/live/tv1/index.m3u8",
-      "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
       "tvtitle": "Hits",
       "tvmedia": "http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8",
       "tvlogo": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png",
@@ -301,17 +422,6 @@
       "tvtitle": "Home & Living",
       "tvmedia": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8",
       "tvlogo": "https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
-      "tvtitle": "Indosiar",
-      "tvmedia": "http://id1.indostreamingtv.com/live/indosiar/index.m3u8",
-      "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png",
       "tvg-id": "",
       "tvg-name": "",
       "tvg-language": "Indonesian",
@@ -540,17 +650,6 @@
       "group-title": ""
     },
     {
-      "tvtitle": "Kompas TV",
-      "tvmedia": "http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=000001.live_hls.zte.com",
-      "tvlogo": "https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
       "tvtitle": "Madani",
       "tvmedia": "http://210.210.155.35/qwr9ew/s/s41/index.m3u8",
       "tvlogo": "http://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png",
@@ -573,17 +672,6 @@
       "group-title": ""
     },
     {
-      "tvtitle": "Metro TV",
-      "tvmedia": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8",
-      "tvlogo": "https://i.imgur.com/B2Q5hcQ.png",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
       "tvtitle": "Mix TV",
       "tvmedia": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8",
       "tvlogo": "https://i.postimg.cc/C53XtK5f/zaltv.png",
@@ -593,17 +681,6 @@
       "tvg-country": "ID",
       "tvg-url": "",
       "group-title": "Music"
-    },
-    {
-      "tvtitle": "MNC TV",
-      "tvmedia": "http://202.80.222.182/000001/2/ch14041511111714365733/1001.m3u8?virtualDomain=000001.live_hls.zte.com",
-      "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
     },
     {
       "tvtitle": "Music Top",
@@ -648,17 +725,6 @@
       "tvg-country": "ID",
       "tvg-url": "",
       "group-title": "Kids"
-    },
-    {
-      "tvtitle": "Net TV",
-      "tvmedia": "http://id2.indostreamingtv.com/live/nettv/index.m3u8",
-      "tvlogo": "https://i.imgur.com/6yIpjUJ.png",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
     },
     {
       "tvtitle": "Nu Channel",
@@ -729,17 +795,6 @@
     {
       "tvtitle": "RCTI",
       "tvmedia": "http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com",
-      "tvlogo": "https://i.imgur.com/gHDcCfx.png",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
-      "tvtitle": "RCTI",
-      "tvmedia": "https://live.rctiplus.id/rctiplus/rcti_720p.m3u8",
       "tvlogo": "https://i.imgur.com/gHDcCfx.png",
       "tvg-id": "",
       "tvg-name": "",
@@ -862,17 +917,6 @@
       "tvtitle": "SBS-in",
       "tvmedia": "http://210.210.155.35/qwr9ew/s/s42/index.m3u8",
       "tvlogo": "",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
-      "tvtitle": "SCTV",
-      "tvmedia": "http://id1.indostreamingtv.com/live/sctv/index.m3u8",
-      "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png",
       "tvg-id": "",
       "tvg-name": "",
       "tvg-language": "Indonesian",
@@ -1057,31 +1101,9 @@
       "group-title": ""
     },
     {
-      "tvtitle": "TV1",
-      "tvmedia": "http://202.80.222.182/000001/2/ch14061215030555428637/1001.m3u8?virtualDomain=000001.live_hls.zte.com",
-      "tvlogo": "https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
       "tvtitle": "TVKU",
       "tvmedia": "http://103.30.1.14:8080/hls/live.m3u8",
       "tvlogo": "https://i.imgur.com/qeoc99J.jpg",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
-      "tvtitle": "TVRI",
-      "tvmedia": "http://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8",
-      "tvlogo": "http://www.tvri.co.id/images/logo.png",
       "tvg-id": "",
       "tvg-name": "",
       "tvg-language": "Indonesian",
