@@ -871,7 +871,7 @@
     },
     {
       "tvtitle": "SCTV",
-      "tvmedia": "http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+      "tvmedia": "http://id1.indostreamingtv.com/live/sctv/index.m3u8",
       "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png",
       "tvg-id": "",
       "tvg-name": "",
