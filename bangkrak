@@ -91,7 +91,7 @@
     {
       "tvtitle": "BeritaSatu World",
       "tvmedia": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8",
-      "tvlogo": "http://image.azuza.web.id/images/agus-1545452020.jpg",
+      "tvlogo": "https://live-tv-channels.org/pt-data/uploads/logo/id-berita-satu-world-2611.jpg",
       "tvg-id": "",
       "tvg-name": "",
       "tvg-language": "Indonesian",
@@ -100,7 +100,7 @@
       "group-title": ""
     },
     {
-      "tvtitle": "Celestial Movies",
+      "tvtitle": "Celestial Movies ",
       "tvmedia": "http://210.210.155.35/qwr9ew/s/s33/01.m3u8?fluxustv.m3u8",
       "tvlogo": "https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg",
       "tvg-id": "",
@@ -111,9 +111,9 @@
       "group-title": "Movies"
     },
     {
-      "tvtitle": "Celestial Movies",
+      "tvtitle": "Celestial Movies HD",
       "tvmedia": "http://210.210.155.35/qwr9ew/s/s33/index.m3u8",
-      "tvlogo": "",
+      "tvlogo": "https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg",
       "tvg-id": "",
       "tvg-name": "",
       "tvg-language": "Indonesian",
@@ -122,7 +122,7 @@
       "group-title": "Movies"
     },
     {
-      "tvtitle": "Celestial Movies",
+      "tvtitle": "Celestial Movies Asia",
       "tvmedia": "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8",
       "tvlogo": "https://mncvision.id/userfiles/image/channel/celestial.png",
       "tvg-id": "",
@@ -177,28 +177,6 @@
       "group-title": "News"
     },
     {
-      "tvtitle": "CNTV 2",
-      "tvmedia": "http://210.210.155.35/qwr9ew/s/s29/index.m3u8",
-      "tvlogo": "",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
-      "tvtitle": "CTV Banten",
-      "tvmedia": "http://103.23.201.170:1935/live/livestream/playlist.m3u8",
-      "tvlogo": "https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/200px-CTV_Banten.png",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
       "tvtitle": "Da Ai Indonesia",
       "tvmedia": "http://210.210.155.35/qwr9ew/s/s13/index.m3u8",
       "tvlogo": "http://www.daaitv.co.id/DAAI-WP/wp-content/uploads/2017/11/logo_no_text.gif",
@@ -210,7 +188,7 @@
       "group-title": ""
     },
     {
-      "tvtitle": "Da Ai Indonesia",
+      "tvtitle": "Da Ai Indonesia HD",
       "tvmedia": "http://210.210.155.35/qwr9ew/s/s13/index2.m3u8",
       "tvlogo": "http://www.daaitv.co.id/DAAI-WP/wp-content/uploads/2017/11/logo_no_text.gif",
       "tvg-id": "",
@@ -243,7 +221,7 @@
       "group-title": "Entertainment"
     },
     {
-      "tvtitle": "Diva",
+      "tvtitle": "Diva HD",
       "tvmedia": "http://45.126.83.51:443/uq2663/h/h11/01.m3u8",
       "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Diva_logo.svg/375px-Diva_logo.svg.png",
       "tvg-id": "",
@@ -252,28 +230,6 @@
       "tvg-country": "ID",
       "tvg-url": "",
       "group-title": "Entertainment"
-    },
-    {
-      "tvtitle": "DMI Channel",
-      "tvmedia": "http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8",
-      "tvlogo": "https://i.imgur.com/PJyf6oq.png",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
-      "tvtitle": "Dungdut TV",
-      "tvmedia": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8",
-      "tvlogo": "http://image.azuza.web.id/images/agus-1545452020.jpg",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
     },
     {
       "tvtitle": "E!",
@@ -299,28 +255,6 @@
     },
     {
       "tvtitle": "Foodie Channel",
-      "tvmedia": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8",
-      "tvlogo": "",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": "Food"
-    },
-    {
-      "tvtitle": "Foodie Channel",
-      "tvmedia": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8",
-      "tvlogo": "",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": "Food"
-    },
-    {
-      "tvtitle": "Foodie Channel",
       "tvmedia": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?fluxustv.m3u8",
       "tvlogo": "https://i.imgur.com/FMy8rhc.png",
       "tvg-id": "",
@@ -329,94 +263,6 @@
       "tvg-country": "ID",
       "tvg-url": "",
       "group-title": "Food"
-    },
-    {
-      "tvtitle": "FOX",
-      "tvmedia": "http://210.210.155.35/uq2663/h/h04/index.m3u8",
-      "tvlogo": "",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
-      "tvtitle": "FOX Movie Premium",
-      "tvmedia": "http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8",
-      "tvlogo": "",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": "Movies"
-    },
-    {
-      "tvtitle": "Gem TV Asia",
-      "tvmedia": "http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8",
-      "tvlogo": "",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": "Entertainment"
-    },
-    {
-      "tvtitle": "Gem TV Asia",
-      "tvmedia": "http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index2.m3u8",
-      "tvlogo": "",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": "Entertainment"
-    },
-    {
-      "tvtitle": "Gem TV Asia",
-      "tvmedia": "http://210.210.155.35/uq2663/h/h19/index2.m3u8",
-      "tvlogo": "https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": "Entertainment"
-    },
-    {
-      "tvtitle": "Gem TV Asia",
-      "tvmedia": "http://45.126.83.51/uq2663/h/h19/index.m3u8",
-      "tvlogo": "",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": "Entertainment"
-    },
-    {
-      "tvtitle": "Global TV",
-      "tvmedia": "http://202.80.222.182:80/000001/2/ch14041511505498448705/1001.m3u8?virtualDomain=000001.live_hls.zte.com",
-      "tvlogo": "https://vignette.wikia.nocookie.net/logopedia/images/4/4a/Global_TV_2008.png",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
-      "tvtitle": "Global TV",
-      "tvmedia": "http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com",
-      "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
     },
     {
       "tvtitle": "GTV",
@@ -463,42 +309,9 @@
       "group-title": ""
     },
     {
-      "tvtitle": "Home & Living",
-      "tvmedia": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8",
-      "tvlogo": "",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
       "tvtitle": "Indosiar",
-      "tvmedia": "http://202.80.222.182/000001/2/ch15051810235326945512/1001.m3u8?virtualDomain=000001.live_hls.zte.com",
+      "tvmedia": "http://id1.indostreamingtv.com/live/indosiar/index.m3u8",
       "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
-      "tvtitle": "Indosiar",
-      "tvmedia": "http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com",
-      "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
-      "tvtitle": "Indosiar",
-      "tvmedia": "http://edge.nim.mivo.tv/kqcsmbqna6yg/indosiar2_all/playlist.m3u8",
-      "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png",
       "tvg-id": "",
       "tvg-name": "",
       "tvg-language": "Indonesian",
