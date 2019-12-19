@@ -79,7 +79,7 @@
     },
    {
       "tvtitle": "Trans TV",
-      "tvmedia": "https://cdn-livetv2.metube.id/hls/transtv.m3u8",
+      "tvmedia": "http://210.210.155.35/session/1712f4ce-2223-11ea-8b2c-b12c95325c2e/qwr9ew/s/s100/01.m3u8",
       "tvlogo": "https://cdn.detik.net.id/transmedia17/images/tv_logo/transtv.png?v=4f378d04",
       "tvg-id": "",
       "tvg-name": "",
