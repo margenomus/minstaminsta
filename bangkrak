@@ -12,17 +12,6 @@
       "group-title": ""
     },
     {
-      "tvtitle": "Ahsan TV",
-      "tvmedia": "http://119.82.224.75:1935/live/ahsantv/playlist.m3u8",
-      "tvlogo": "",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
       "tvtitle": "All Sports",
       "tvmedia": "http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8",
       "tvlogo": "",
@@ -45,7 +34,7 @@
       "group-title": ""
     },
     {
-      "tvtitle": "Animax",
+      "tvtitle": "Animax HD",
       "tvmedia": "http://210.210.155.35:80/dr9445/h/h144/index2.m3u8",
       "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png",
       "tvg-id": "",
@@ -68,30 +57,8 @@
     },
     {
       "tvtitle": "ANTV",
-      "tvmedia": "http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com",
+      "tvmedia": "http://id2.indostreamingtv.com/live/antv/index.m3u8",
       "tvlogo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Antv.png",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
-      "tvtitle": "ANTV",
-      "tvmedia": "http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com",
-      "tvlogo": "",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
-    {
-      "tvtitle": "Bali TV",
-      "tvmedia": "http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8.m3u8?virtualDomain=000001.live_hls.zte.com",
-      "tvlogo": "https://vignette.wikia.nocookie.net/logopedia/images/6/62/Balitv_2002.png",
       "tvg-id": "",
       "tvg-name": "",
       "tvg-language": "Indonesian",
@@ -102,7 +69,7 @@
     {
       "tvtitle": "Bali TV",
       "tvmedia": "http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com",
-      "tvlogo": "",
+      "tvlogo": "https://vignette.wikia.nocookie.net/logopedia/images/6/62/Balitv_2002.png",
       "tvg-id": "",
       "tvg-name": "",
       "tvg-language": "Indonesian",
@@ -112,19 +79,8 @@
     },
     {
       "tvtitle": "BeritaSatu",
-      "tvmedia": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8",
-      "tvlogo": "",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": "News"
-    },
-    {
-      "tvtitle": "BeritaSatu",
       "tvmedia": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8",
-      "tvlogo": "http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151",
+      "tvlogo": "https://img.beritasatu.com/cache/beritasatu/910x580-2/13092012142252.jpg",
       "tvg-id": "",
       "tvg-name": "",
       "tvg-language": "Indonesian",
@@ -175,29 +131,7 @@
       "tvg-country": "ID",
       "tvg-url": "",
       "group-title": "Movies"
-    },
-    {
-      "tvtitle": "CNA",
-      "tvmedia": "http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8",
-      "tvlogo": "",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": "News"
-    },
-    {
-      "tvtitle": "CNA",
-      "tvmedia": "http://210.210.155.35/uq2663/h/h29/index.m3u8",
-      "tvlogo": "",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": "News"
-    },
+    }
     {
       "tvtitle": "CNBC Indonesia",
       "tvmedia": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8",
