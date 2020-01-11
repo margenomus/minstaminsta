@@ -1,16 +1,6 @@
 {
   "data": [    
-             {
-      "tvtitle": "Tottenham vs Liverpool",
-      "tvmedia": "http://62.210.148.7:8090/FT/1/index.m3u8",
-      "tvlogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJNwYNYuOjCo1GFHNCBK2YxBmdqVXL-qvwkC87uSJZK4a3AjK4",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
+
      {
       "tvtitle": "Movie HD",
       "tvmedia": "http://id6.indostreamingtv.com/live/mnctv/index.m3u8",
