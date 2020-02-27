@@ -1,16 +1,5 @@
 {
   "data": [   
-     {
-      "tvtitle": "Real Madrid vs Manchester City",
-      "tvmedia": "http://62.210.148.7:8090/FT/3/index.m3u8",
-      "tvlogo": "https://cdn2.tstatic.net/makassar/foto/bank/images/pertandingan-live-streaming-real-madrid-vs-manchester-city-tayang-live-sctv.jpg",
-      "tvg-id": "",
-      "tvg-name": "",
-      "tvg-language": "Indonesian",
-      "tvg-country": "ID",
-      "tvg-url": "",
-      "group-title": ""
-    },
     {
       "tvtitle": "Movie HD",
       "tvmedia": "http://id6.indostreamingtv.com/live/mnctv/index.m3u8",
